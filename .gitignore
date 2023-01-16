@@ -1,0 +1,8 @@
+*.user
+bin/*
+Migrations/*
+obj/*
+obj/*
+bin/*
+packages/
+.vs/
